@@ -9,7 +9,7 @@ Single Sign-On (SSO) enhances user convenience by allowing seamless access to mu
 For more information on how SSO works check out this link: https://www.onelogin.com/learn/how-single-sign-on-works
 
 ### Prerequisites:
-- Installed Node.js
+- Installed Node.js and npm
 - Visual Studio Code (Optional IDE)
 - Basic knowledge of React Native and JavaScript
 
